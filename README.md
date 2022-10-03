@@ -1,5 +1,5 @@
 # automatic_backup_YOUR_PROJECT_database_mysql.sh
-Automatic backup YOUR PROJECT mysql Database that create by bash script using crontab on Linux Ubuntu.
+Automatic backups YOUR PROJECT mysql Database that create by bash script using crontab on Linux Ubuntu.
 # How to add to your Linux Server
 download file from web version this website, at Code > Download ZIP, using wget
 
